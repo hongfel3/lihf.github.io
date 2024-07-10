@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongfeng Li / Main page"
+title                    : "Hongfeng Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
