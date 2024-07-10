@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "About me"
+title: "Short Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a scientific researcher from Peking University.
+Dr. Li is currently a scientific researcher with the Institute of Medical Technology, Peking University, Beijing, China. He has received the BS degree of Mathematics and Applied Mathematics, and the PhD degree of Computer Software and Theory, both from Huazhong University of Science and Technology, Wuhan, China, in 2010 and 2016, respectively. From September 2014 to September 2015, he was an exchange student in Department of Mathematics, University of California, Irvine, supervised by Prof. Hongkai Zhao. He was a Post-Doctoral with the Beijing International Center for Mathematical Research, Peking University from July 2016 to June 2018.
 
-A data-driven personal website
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
